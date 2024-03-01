@@ -1,3 +1,3 @@
-# Skript-gui
+# CP-gui
 
 ## Image:
