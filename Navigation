@@ -1,5 +1,5 @@
 panels:
-  game:
+  navigation:
     perm: default
     rows: 5
     title: '&8Navigation'
@@ -21,8 +21,7 @@ panels:
         - §7
         - '§8 • §7Pseudo: §a%player_name%'
         - '§8 • §7Grade: §r%luckperms_prefix%'
-        - '§8 • §7Coins: §33%xconomy_balance% '
-        - '§8 • §7Mystery Dust: §b%gadgetsmenu_mystery_dust%'
+        - '§8 • §7Coins: §3%xconomy_balance%'
         - §7
         - '§8 • §7Date d''inscription: §e%player_first_join_date%'
       '7':
@@ -60,19 +59,18 @@ panels:
         commands:
         - server= bedwars
       '22':
-        ID: 2
-        material: BARRIER
+        material: SHEARS
         stack: 1
-        name: §8➜ §4§lSOON
+        name: §8➜ §6§lBlockSumoFFA
         lore:
-        - '§8Type: INCONNUE'
+        - '§6Type: Mini-Jeu§8'
         - §7
         - '§7| §3§lBUT DU JEU§8:'
-        - §7 • §bProchainement
-        - §7 • §ben recherche d'idée
-        - §7 • §bou se fais dev.
+        - §7 • §bPousser les joueur
+        - §7 • §bFaite le plus de kill
+        - §7 • §bAmusé vous en blocksumo.
         - §7
-        - §d ✸ §7Il y a actuellement §3&l0 §7joueurs
+        - §d ✸ §7Il y a actuellement §3§l%bungee_blocksumo% §7joueurs
         - §7
         - §7§l❱ §bClique pour rejoindre
       '24':
