@@ -1,0 +1,150 @@
+panels:
+  game:
+    perm: default
+    rows: 5
+    title: '&8Navigation'
+    emptyID: '15'
+    item:
+      '0':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '1':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '4':
+        material: cps= self
+        stack: 1
+        name: §b§l§nMon Profil
+        lore:
+        - §7
+        - '§8 • §7Pseudo: §a%player_name%'
+        - '§8 • §7Grade: §r%luckperms_prefix%'
+        - '§8 • §7Coins: §3%vault_eco_balance_formatted% ⛃'
+        - '§8 • §7Mystery Dust: §b%gadgetsmenu_mystery_dust%'
+        - §7
+        - '§8 • §7Date d''inscription: §e%player_first_join_date%'
+      '7':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '8':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '9':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '17':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '20':
+        material: BED
+        stack: 1
+        name: §8➜ §f§lBedWars
+        lore:
+        - '§8Type: Mini-Jeu'
+        - §7
+        - '§7| §3§lBUT DU JEU§8:'
+        - §7 • §bDétruisez le lit des équipes ennemies
+        - §7 • §btout en protégeant le vôtre pour remporter
+        - §7 • §bla partie !
+        - §7 • &4En dévloppement  !
+        - §7
+        - §d ✸ §7Il y a actuellement §3§l%bungee_bedwars% §7joueurs
+        - §7
+        - §7§l❱ §bClique pour rejoindre
+        commands:
+        - server= bedwars
+      '22':
+        ID: 2
+        material: BARRIER
+        stack: 1
+        name: §8➜ §4§lSOON
+        lore:
+        - '§8Type: INCONNUE'
+        - §7
+        - '§7| §3§lBUT DU JEU§8:'
+        - §7 • §bProchainement
+        - §7 • §ben recherche d'idée
+        - §7 • §bou se fais dev.
+        - §7
+        - §d ✸ §7Il y a actuellement §3&l0 §7joueurs
+        - §7
+        - §7§l❱ §bClique pour rejoindre
+      '24':
+        material: DIAMOND_SWORD
+        stack: 1
+        name: §8§l➜ §f§lKitPvP
+        lore:
+        - '§8Type: Mini-Jeu'
+        - §7
+        - '§7| §3§lBUT DU JEU§8:'
+        - §7 • §bSelectionnez un kit puis
+        - §7 • §bjetez vous dans l'arène pour
+        - §7 • §bcombattre les autres joueurs
+        - §7
+        - §d ✸ §7Il y a actuellement §3§l%bungee_kitpvp% §7joueurs
+        - §7
+        - §7§l❱ §bClique pour rejoindre
+        commands:
+        - server= kitpvp
+      '30':
+        material: IRON_AXE
+        stack: 1
+        name: §8➜ §f§lMurder Mystery
+        lore:
+        - '§8Type: Mini-Jeu'
+        - §7
+        - '§7| §3§lBUT DU JEU§8:'
+        - §7 • §bTrouver le murder ou
+        - §7 • §bTué tout les joueurs
+        - §7 • §bpour gagné la partie.
+        - §7
+        - §d ✸ §7Il y a actuellement §3§l%bungee_murdermy% §7joueurs
+        - §7
+        - §7§l❱ §bClique pour rejoindre
+        commands:
+        - server= murdermy
+      '32':
+        material: BARRIER
+        stack: 1
+        name: §8➜ §4§lSOON
+        lore:
+        - '§8Type: INCONNUE'
+        - §7
+        - '§7| §3§lBUT DU JEU§8:'
+        - §7 • §bProchainement
+        - §7 • §ben recherche d'idée
+        - §7 • §bou se fais dev.
+        - §7
+        - §d ✸ §7Il y a actuellement §3&l0 §7joueurs
+        - §7
+        - §7§l❱ §bClique pour rejoindre
+      '27':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '35':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '36':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '37':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '43':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
+      '44':
+        ID: 11
+        material: STAINED_GLASS_PANE
+        stack: 1
