@@ -21,7 +21,7 @@ panels:
         - §7
         - '§8 • §7Pseudo: §a%player_name%'
         - '§8 • §7Grade: §r%luckperms_prefix%'
-        - '§8 • §7Coins: §3%vault_eco_balance_formatted% ⛃'
+        - '§8 • §7Coins: §33%xconomy_balance% ⛃'
         - '§8 • §7Mystery Dust: §b%gadgetsmenu_mystery_dust%'
         - §7
         - '§8 • §7Date d''inscription: §e%player_first_join_date%'
