@@ -8,6 +8,7 @@
 ## Utile:
 
 - le fichié config.yml est le fichié config de XConomy pour avoir des petit truc plus sympa a voir si vous voulez ou pas
+- shop.yml est pour chestcommand
 
   ## Future Mis a jour:
 
