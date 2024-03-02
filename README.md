@@ -1,4 +1,4 @@
-# CP-gui v.0.2
+# CP-gui v.0.7
 
 
 ## Image:
