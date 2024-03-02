@@ -51,7 +51,6 @@ panels:
         - §7 • §bDétruisez le lit des équipes ennemies
         - §7 • §btout en protégeant le vôtre pour remporter
         - §7 • §bla partie !
-        - §7 • &4En dévloppement  !
         - §7
         - §d ✸ §7Il y a actuellement §3§l%bungee_bedwars% §7joueurs
         - §7
@@ -59,20 +58,22 @@ panels:
         commands:
         - server= bedwars
       '22':
-        material: SHEARS
+        material: BOW
         stack: 1
-        name: §8➜ §6§lBlockSumoFFA
+        name: §8➜ §f§lPaintBall
         lore:
-        - '§6Type: Mini-Jeu§8'
+        - '§8Type: Mini-Jeu§8'
         - §7
         - '§7| §3§lBUT DU JEU§8:'
-        - §7 • §bPousser les joueur
-        - §7 • §bFaite le plus de kill
-        - §7 • §bAmusé vous en blocksumo.
+        - §7 • §bToucher des personne
+        - §7 • §bAvec votre armes pour
+        - §7 • §bGagné la partie.
         - §7
-        - §d ✸ §7Il y a actuellement §3§l%bungee_blocksumo% §7joueurs
+        - §d ✸ §7Il y a actuellement §3§l%bungee_paintball% §7joueurs
         - §7
         - §7§l❱ §bClique pour rejoindre
+        commands:
+        - server= paintball
       '24':
         material: DIAMOND_SWORD
         stack: 1
@@ -91,18 +92,18 @@ panels:
         commands:
         - server= kitpvp
       '30':
-        material: IRON_AXE
+        material: BARRIER
         stack: 1
-        name: §8➜ §f§lMurder Mystery
+        name: §8➜ §4§lSOON
         lore:
-        - '§8Type: Mini-Jeu'
+        - '§8Type: INCONNUE'
         - §7
         - '§7| §3§lBUT DU JEU§8:'
-        - §7 • §bTrouver le murder ou
-        - §7 • §bTué tout les joueurs
-        - §7 • §bpour gagné la partie.
+        - §7 • §bProchainement
+        - §7 • §ben recherche d'idée
+        - §7 • §bou se fais dev.
         - §7
-        - §d ✸ §7Il y a actuellement §3§l%bungee_murdermy% §7joueurs
+        - §d ✸ §7Il y a actuellement §3&l0 §7joueurs
         - §7
         - §7§l❱ §bClique pour rejoindre
         commands:
@@ -147,4 +148,4 @@ panels:
         stack: 1
         name: §8➜ §6Boutique
         commands:
-        - shop
+        - chestcommands open shop
