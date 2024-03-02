@@ -1,0 +1,105 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # REQUIRED
+  # Appears as the title of the menu.
+  name: '&6Boutique'
+
+  # REQUIRED
+  # The number of rows in the menu.
+  rows: 3
+
+  # OPTIONAL
+  # Set which commands a player can execute to open the menu.
+  commands:
+  - 'shop'
+
+  # OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have placeholders in icon descriptions.
+  auto-refresh: 5
+
+  # OPTIONAL
+  # These actions will be executed when the menu is opened.
+  # Supports all the icon action types.
+  open-actions:
+
+  # OPTIONAL
+  # The menu will open only when right-clicking with a compass.
+  open-with-item:
+    material: GOLD_INGOT
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ICONS        #
+#+                  +#
+######################
+
+mini-vip:
+  MATERIAL: iron ingot
+  POSITION-X: 2
+  POSITION-Y: 2
+  NAME: '&9mini vip'
+  LORE:
+    - 'privilèges:' 
+    - '&b※ &7Des cosmetique dans le lobby'   
+    - ''
+    - 'Prix: '
+  PRICE: 
+  ACTIONS:
+    - 'COMMANDE A AJOUTE'
+  KEEP-OPEN: true
+  
+  
+vip:
+  MATERIAL: gold ingot
+  POSITION-X: 4
+  POSITION-Y: 2
+  NAME: '&6vip'
+  LORE:
+    - 'privilèges:' 
+    - '&b※ &7Des cosmetique dans le lobby'   
+    - ''
+    - 'Prix: '
+  PRICE: 
+  ACTIONS:
+    - 'COMMANDE A AJOUTE'
+  KEEP-OPEN: true
+  
+vip+:
+  MATERIAL: diamond
+  POSITION-X: 6
+  POSITION-Y: 2
+  NAME: '&bvip+'
+  LORE:
+    - 'privilèges:' 
+    - '&b※ &7Des cosmetique dans le lobby'   
+    - ''
+    - 'Prix: '
+  PRICE: 
+  ACTIONS:
+    - 'COMMANDE A AJOUTE'
+  KEEP-OPEN: true
+  
+hype:
+  MATERIAL: nether star
+  POSITION-X: 8
+  POSITION-Y: 2
+  NAME: '&5Hype'
+  LORE:
+    - 'privilèges:' 
+    - '&b※ &7Des cosmetique dans le lobby'   
+    - ''
+    - 'Prix: '
+  PRICE: 
+  ACTIONS:
+    - 'COMMANDE A AJOUTE'
+  KEEP-OPEN: true
