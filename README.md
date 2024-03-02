@@ -11,7 +11,7 @@
 
   ## Future Mis a jour:
 
-  - Gui shop
+- Gui shop
 
 ## Guild d'instalation:
 Teléchargé les fichié
