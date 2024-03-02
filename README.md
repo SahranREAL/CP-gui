@@ -5,7 +5,8 @@ _(par exemple pour les coins dans profil)_
 - Xconomy
 - chestcommande
 ## Image:
-![image](https://github.com/SahranREAL/CP-gui-navigation-/assets/94926019/5cdd0051-adcc-4c37-bea3-b5d8199e88c6)
+![image](https://github.com/SahranREAL/CP-gui-navigation/assets/94926019/747409a3-297c-409e-b6a3-995dbf4ba248)
+
 
 # Utile:
 
