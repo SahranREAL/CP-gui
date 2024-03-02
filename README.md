@@ -1,4 +1,4 @@
-# CP-gui v 0.1
+# CP-gui v.0.1
 
 ## Plugins utile:
 _(par exemple pour les coins dans profil)_
