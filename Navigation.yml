@@ -143,6 +143,8 @@ panels:
         material: STAINED_GLASS_PANE
         stack: 1
       '44':
-        ID: 11
-        material: STAINED_GLASS_PANE
+        material: GOLD_INGOT
         stack: 1
+        name: §8➜ §6Boutique
+        commands:
+        - shop
