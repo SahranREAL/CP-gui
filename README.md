@@ -3,6 +3,7 @@
 ## Plugins utile:
 _(par exemple pour les coins dans profil)_
 - Xconomy
+- chestcommande
 ## Image:
 ![image](https://github.com/SahranREAL/CP-gui-navigation-/assets/94926019/5cdd0051-adcc-4c37-bea3-b5d8199e88c6)
 
