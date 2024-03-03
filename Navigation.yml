@@ -20,7 +20,7 @@ panels:
         lore:
         - §7
         - '§8 • §7Pseudo: §a%player_name%'
-        - '§8 • §7Grade: §r%luckperms_prefix%'
+        - '§8 • §7Grade: §r%nte_prefix_c%'
         - '§8 • §7Coins: §3%xconomy_balance%'
         - §7
         - '§8 • §7Date d''inscription: §e%player_first_join_date%'
