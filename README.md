@@ -50,6 +50,27 @@ et mettez mon config.YML
 
 ![image](https://github.com/SahranREAL/CP-gui-navigation/assets/94926019/ca9d2fdd-d464-4f9b-baa4-8a0f1187133e)
 
+Pour le prefix nameTagEdit dans profil mettez nameTagedit (le normal donc nametagedit.jar)
+
+![image](https://github.com/SahranREAL/CP-gui-navigation-et-shop/assets/94926019/55e2d53d-52de-4b3f-9357-ff69787470ea)
+
+*(Mon setup de nameTagEdit: https://github.com/SahranREAL/nametagedit-setup )*
+
+Et mette PlaceholderAPI
+
+![image](https://github.com/SahranREAL/CP-gui-navigation-et-shop/assets/94926019/45bbce99-178c-4965-b375-ed43a042e903)
+
+
+Ouvre le fichié de PlaceholderAPI et va dans expansions
+
+![image](https://github.com/SahranREAL/CP-gui-navigation-et-shop/assets/94926019/f6241de2-41d1-4b70-b7b8-8c4b916f7ea4)
+
+Met le nte.jar dans le fichié expansions
+
+![image](https://github.com/SahranREAL/CP-gui-navigation-et-shop/assets/94926019/4a3cee54-e151-4ee5-84cc-21dd55892e5b)
+
+
+
 
 Voila normalement tout va fonctionne :D
 
@@ -61,9 +82,6 @@ _(par exemple pour les coins dans profil)_
 - chestcommande
 - NametagEdit Placeholders
 - NameTagEdit
-
-
-  ## Guild d'instalation des fature:
 
 
 
