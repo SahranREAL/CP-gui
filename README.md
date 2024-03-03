@@ -11,12 +11,13 @@
 
 - le fichié config.yml est le fichié config de XConomy pour avoir des petit truc plus sympa a voir si vous voulez ou pas
 - shop.yml est pour chestcommand
+- Prefix dans profil NameTagEdit + NametagEdit Placeholders 1.0.jar (Download and put jar into "plugins/PlaceholderAPI/expansions")
 
   ## Future Mis a jour:
 
 - Gui shop
 
-## Guild d'instalation:
+## Guild d'instalation du panel:
 Teléchargé les fichié
 
 ![image](https://github.com/SahranREAL/CP-gui-navigation/assets/94926019/4a9c322f-8fe9-472d-bb6c-a09f04c147f9)
@@ -55,8 +56,14 @@ Voila normalement tout va fonctionne :D
 
 ## Plugins utile:
 _(par exemple pour les coins dans profil)_
+- CommandPanel
 - Xconomy
 - chestcommande
+- NametagEdit Placeholders
+- NameTagEdit
+
+
+  ## Guild d'instalation des fature:
 
 
 
