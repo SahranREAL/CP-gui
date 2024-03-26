@@ -1,4 +1,4 @@
-# CP-gui v.0.7
+# CP-gui v.0.8
 
 
 ## Image:
@@ -15,7 +15,7 @@
 
   ## Future Mis a jour:
 
-- Gui shop
+- 
 
 ## Guild d'instalation du panel:
 Teléchargé les fichié
